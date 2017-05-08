@@ -1,0 +1,4 @@
+c:\users\monte\documents\visual studio 2015\Projects\PrimeNumberUtility\PrimeNumberUtility\bin\Release\PrimeNumberUtility.dll
+c:\users\monte\documents\visual studio 2015\Projects\PrimeNumberUtility\PrimeNumberUtility\bin\Release\PrimeNumberUtility.pdb
+c:\users\monte\documents\visual studio 2015\Projects\PrimeNumberUtility\PrimeNumberUtility\obj\Release\PrimeNumberUtility.dll
+c:\users\monte\documents\visual studio 2015\Projects\PrimeNumberUtility\PrimeNumberUtility\obj\Release\PrimeNumberUtility.pdb

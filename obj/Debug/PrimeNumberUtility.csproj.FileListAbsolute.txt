@@ -1,0 +1,5 @@
+c:\users\monte\documents\visual studio 2015\Projects\PrimeNumberUtility\PrimeNumberUtility\bin\Debug\PrimeNumberUtility.dll
+c:\users\monte\documents\visual studio 2015\Projects\PrimeNumberUtility\PrimeNumberUtility\bin\Debug\PrimeNumberUtility.pdb
+c:\users\monte\documents\visual studio 2015\Projects\PrimeNumberUtility\PrimeNumberUtility\obj\Debug\PrimeNumberUtility.csprojResolveAssemblyReference.cache
+c:\users\monte\documents\visual studio 2015\Projects\PrimeNumberUtility\PrimeNumberUtility\obj\Debug\PrimeNumberUtility.dll
+c:\users\monte\documents\visual studio 2015\Projects\PrimeNumberUtility\PrimeNumberUtility\obj\Debug\PrimeNumberUtility.pdb
